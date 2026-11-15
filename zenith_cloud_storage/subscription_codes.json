@@ -1,0 +1,43 @@
+[
+  {
+    "maxActivations": 1,
+    "code": "ZENITH-LIFETIME-VIP",
+    "activationsLeft": 1,
+    "plan": "LIFETIME VIP",
+    "createdDate": "14.11.2026",
+    "days": 99999,
+    "usedBy": []
+  },
+  {
+    "maxActivations": 1,
+    "code": "PRO-VISUALS-ONE-TIME",
+    "activationsLeft": 1,
+    "plan": "PRO Visuals (1 год)",
+    "createdDate": "14.11.2026",
+    "days": 365,
+    "usedBy": []
+  },
+  {
+    "maxActivations": 1,
+    "code": "GHOST-ESP-30DAYS",
+    "activationsLeft": 0,
+    "plan": "VIP 30 Дней",
+    "createdDate": "14.11.2026",
+    "days": 30,
+    "usedBy": [
+      {
+        "username": "StormRider33",
+        "date": "14.11.2026 14:30"
+      }
+    ]
+  },
+  {
+    "code": "VIP-30DAYS-ONE-USE",
+    "plan": "VIP 30 Дней",
+    "days": 30,
+    "maxActivations": 1,
+    "activationsLeft": 1,
+    "createdDate": "14.11.2026",
+    "usedBy": []
+  }
+]

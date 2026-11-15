@@ -1,0 +1,42 @@
+[
+  {
+    "id": "9ba2ac6e",
+    "label": "Спавн",
+    "command": "/spawn"
+  },
+  {
+    "id": "aba55cd2",
+    "label": "Дом",
+    "command": "/home"
+  },
+  {
+    "id": "ad6a08b2",
+    "label": "РТП",
+    "command": "/rtp"
+  },
+  {
+    "id": "83ccbf7e",
+    "label": "Лобби",
+    "command": "/hub"
+  },
+  {
+    "id": "b2ec3796",
+    "label": "Починка",
+    "command": "/fix all"
+  },
+  {
+    "id": "bad50cf0",
+    "label": "Еда",
+    "command": "/feed"
+  },
+  {
+    "id": "b4c53e2a",
+    "label": "Аукцион",
+    "command": "/ah"
+  },
+  {
+    "id": "88981d9c",
+    "label": "Клан",
+    "command": "/clan"
+  }
+]

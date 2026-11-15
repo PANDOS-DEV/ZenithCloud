@@ -1,0 +1,100 @@
+[
+  {
+    "username": "PANDOS",
+    "password": "92d94b811f3559c2f5e1547d804f748276174244dea090495a9868f6f8866a00",
+    "email": "admin@zenith.cc",
+    "role": "ADMIN",
+    "subscriptionActive": true,
+    "subscriptionPlan": "LIFETIME VIP",
+    "registeredDate": "01.01.2026",
+    "cosmetics": "all,crown,wings,katana,halo,scarf,backpack,aura",
+    "equippedCosmetics": "china_hat,katana,backpack,aura,scarf,halo,wings,pets",
+    "lastSeen": "15.11.2026 23:11",
+    "lastIp": "127.0.0.1",
+    "pcName": "DESKTOP-HNQV448",
+    "hwid": "HWID-75A83888DCAB5318"
+  },
+  {
+    "username": "StormRider33",
+    "password": "90aca2042a1b991f535f3ca1d145d23a1f7fd9ae8c52eec64ce2d304dbb1c10a",
+    "email": "storm@mail.com",
+    "role": "USER",
+    "subscriptionActive": true,
+    "subscriptionPlan": "VIP 30 Дней",
+    "registeredDate": "12.04.2026",
+    "cosmetics": "?????? ??????????",
+    "equippedCosmetics": "",
+    "expiresAt": "14.12.2026"
+  },
+  {
+    "username": "TestUser999",
+    "password": "74af10df857ceb0b064dc2d858e928e84607c73fb17f354d75c8f1f3a3b37190",
+    "email": "t@mail.com",
+    "role": "USER",
+    "subscriptionActive": false,
+    "subscriptionPlan": "Отключена",
+    "registeredDate": "03.11.2026",
+    "cosmetics": "",
+    "equippedCosmetics": ""
+  },
+  {
+    "username": "Alex_Pro",
+    "password": "90aca2042a1b991f535f3ca1d145d23a1f7fd9ae8c52eec64ce2d304dbb1c10a",
+    "email": "alex@mail.com",
+    "role": "USER",
+    "subscriptionActive": true,
+    "subscriptionPlan": "30 Дней",
+    "registeredDate": "20.05.2026",
+    "cosmetics": "crown",
+    "equippedCosmetics": ""
+  },
+  {
+    "username": "SteveCraft",
+    "password": "90aca2042a1b991f535f3ca1d145d23a1f7fd9ae8c52eec64ce2d304dbb1c10a",
+    "email": "steve@mail.com",
+    "role": "USER",
+    "subscriptionActive": true,
+    "subscriptionPlan": "30 Дней",
+    "registeredDate": "02.06.2026",
+    "cosmetics": "",
+    "equippedCosmetics": ""
+  },
+  {
+    "username": "guest",
+    "password": "90aca2042a1b991f535f3ca1d145d23a1f7fd9ae8c52eec64ce2d304dbb1c10a",
+    "email": "guest@mail.com",
+    "role": "USER",
+    "subscriptionActive": false,
+    "subscriptionPlan": "Нет подписки",
+    "registeredDate": "15.07.2026",
+    "cosmetics": "",
+    "equippedCosmetics": ""
+  },
+  {
+    "username": "CyberWarrior_2026",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "email": "cyberwarrior_2026@zenith.cc",
+    "role": "USER",
+    "subscriptionActive": false,
+    "subscriptionPlan": "Нет подписки",
+    "registeredDate": "14.11.2026 14:37",
+    "expiresAt": "Отсутствует",
+    "cosmetics": "",
+    "equippedCosmetics": ""
+  },
+  {
+    "username": "OtherPlayer_777",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "email": "otherplayer_777@zenith.cc",
+    "role": "USER",
+    "subscriptionActive": false,
+    "subscriptionPlan": "Нет подписки",
+    "registeredDate": "14.11.2026 15:04",
+    "lastSeen": "14.11.2026 15:04",
+    "pcName": "DESKTOP-FRIEND",
+    "hwid": "HWID-B47A912C",
+    "lastIp": "127.0.0.1",
+    "cosmetics": "",
+    "equippedCosmetics": ""
+  }
+]
